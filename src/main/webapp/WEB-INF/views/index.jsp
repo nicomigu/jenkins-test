@@ -7,6 +7,6 @@
 <title>Jenkins Test</title>
 </head>
 <body>
-<h1>Hello Test</h1>
+<h1>Hello Edited</h1>
 </body>
 </html>
