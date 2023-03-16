@@ -68,7 +68,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>${project.name}test</finalName>
+		<finalName>nico-jenkins-docker</finalName>
 	</build>
 
 </project>
